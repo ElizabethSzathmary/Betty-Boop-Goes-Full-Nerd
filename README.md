@@ -1,4 +1,4 @@
-# Betty-Boop-Goes-Full-Nerd
+# Kickstarter Analysis
 
 
 Introduction
